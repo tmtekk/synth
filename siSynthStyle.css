@@ -1,21 +1,20 @@
  body {
   background: #FCFBE3;
-  /* display: grid;
-  grid-auto-columns: 11.7%; */
-  padding-left: 100px;
-  /* text-align: center; */
+  padding-left: 150px;
+  position: absolute;
   font-family: 'Libre Baskerville', serif;
-  font-size: 1.25em;
+  font-size: 1.5em;
+  width: auto;
 }
 
 #oscContainer{
   width: auto;
   display: grid;
-  grid-auto-columns: 11.7%;
+  grid-auto-columns: 13.7%;
 }
 
 h1{
-  padding-left: 585px;
+  padding-left: 650px;
   grid-column: 4;
   padding-bottom: 50px;
 }
